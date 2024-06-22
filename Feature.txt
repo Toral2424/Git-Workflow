@@ -1,1 +1,7 @@
-Feature content
+Merge Branch 'hotfix/urgent-fix'
+This command Will Do:
+Merge hotfix/urgent-fix into master and develop 
+Tag the master branch 
+Delete hotfix/urgent-fix branch 
+switch back to the master branch 
+
